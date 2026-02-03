@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Cytometry In R
+
+Location: Hamburg, Germany
+
+My Favorite Fluorophore/Metal-Isotope: APC
+
+Previous Coding Experience: Failing my programming exam
+
+What I Hope to Get From This Course: Just learn the basics
